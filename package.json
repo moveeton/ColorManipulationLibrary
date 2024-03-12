@@ -1,20 +1,23 @@
 {
-  "name": "colormanipulationlibrary", 
-  "version": "1.0.0", 
-  "description": "by moveeton", 
+  "name": "colormanipulationlibrarybymoveeton",
+  "version": "1.0.1",
+  "description": "by moveeton",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/moveeton/ColorManipulationLibrary.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "moveeton",
+  "license": "MIT",
+  "dependencies": {
+    "datatablecomponentbymoveeton": "^1.0.1"
+  }
 }
